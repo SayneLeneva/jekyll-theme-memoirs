@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Petit article de test"
-author: Sayne
+author: sayne
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/2.jpg
