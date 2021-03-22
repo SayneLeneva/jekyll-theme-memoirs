@@ -1,7 +1,7 @@
 # Site
 name: "Faim de phrases"
 title: "Faim de phrases"
-description: "Un petit titre de site à mettre en place"
+description: "Au menu : petit mélange de textes, dessins soupoudrés de haïkus "
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: ""
@@ -17,7 +17,7 @@ authors:
   sayne:
     name: Sayne Venel
     display_name: Sayne Venel
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    image: assets/images/logo1.png
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
