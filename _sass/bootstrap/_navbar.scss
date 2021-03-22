@@ -9,7 +9,6 @@
 // Navbar position
 // Navbar themes
 
-
 // Navbar
 //
 // Provide a static navbar from which we expand to create full-width, fixed, and
@@ -44,7 +43,6 @@
   }
 }
 
-
 // Navbar brand
 //
 // Used for brand, project, or site names.
@@ -57,12 +55,13 @@
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
   white-space: nowrap;
+  width: 100% !important;
+  text-align: center;
 
   @include hover-focus() {
     text-decoration: none;
   }
 }
-
 
 // Navbar nav
 //
@@ -86,7 +85,6 @@
   }
 }
 
-
 // Navbar text
 //
 //
@@ -96,7 +94,6 @@
   padding-top: $nav-link-padding-y;
   padding-bottom: $nav-link-padding-y;
 }
-
 
 // Responsive navbar
 //
@@ -213,7 +210,6 @@
     }
   }
 }
-
 
 // Navbar themes
 //
