@@ -4,7 +4,7 @@ title:  "Faim de phrases"
 author: sayne
 categories: [ StoryOfMyLife ]
 tags: [ France ]
-image: assets/images/1bis.jpg
+image: assets/images/faim.jpg
 
 ---
 
