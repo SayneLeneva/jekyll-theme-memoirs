@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: A propos 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/avatar.jpeg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Ce blog a une longue histoire. J'espère pouvoir le développer quand je serai plus douée en écriture.
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="https://www.instagram.com/percez.et.vous.verrez/" class="btn btn-dark">Mon instagram</a>
 
