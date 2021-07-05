@@ -34,10 +34,10 @@ te délacer de mes bras
 
 ##### Désinence
 
-À chaque mot sa fin
-Elle change avec le temps et la personne
-Parce que nous savons que vous sachez
-On raisonne avec et. 
+À chaque mot sa fin\
+Elle change avec le temps et la personne\
+Parce que nous savons que vous sachez\
+On raisonne avec et.\
 
 ##### Expéditionnaire
 
