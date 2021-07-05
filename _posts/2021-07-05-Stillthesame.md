@@ -28,9 +28,9 @@ Je vais donc écrire mes petits bouts de rien. J'ai pris un mot au hasard qui m'
 
 ##### Délacer
 
-enlever ce qui est faitje me lasse de toi\n
-sans pour autant\n
-te délacer de mes bras\n
+enlever ce qui est faitje me lasse de toi  
+sans pour autant  
+te délacer de mes bras  
 
 ##### Désinence
 
