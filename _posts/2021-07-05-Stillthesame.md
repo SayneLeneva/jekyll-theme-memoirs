@@ -28,7 +28,8 @@ Je vais donc écrire mes petits bouts de rien. J'ai pris un mot au hasard qui m'
 
 ##### Délacer
 
-enlever ce qui est faitje me lasse de toi  
+enlever ce qui est fait  
+je me lasse de toi  
 sans pour autant  
 te délacer de mes bras  
 
@@ -37,7 +38,7 @@ te délacer de mes bras
 À chaque mot sa fin\
 Elle change avec le temps et la personne\
 Parce que nous savons que vous sachez\
-On raisonne avec et.\
+On raisonne avec et.
 
 ##### Expéditionnaire
 
