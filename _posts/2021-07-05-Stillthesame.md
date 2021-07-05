@@ -20,25 +20,26 @@ Rien que pour commencer cet article, je me suis trouvée des excuses pour ne pas
 
 J'étais censée poster quelque chose tous les jours sur mon insta caché, résultat 4 posts. J'étais censé faire une photo tous les jours à la même heure, la passer en N&B et laisser un élément de couleur, résultat : jamais fait. J'étais censé faire un petit dessin tous les soirs à 21h30, résultat : jamais fait. Je pourrais continuer la liste encore longtemps mais cela ne sert à rien.  
 
+
+
 ## But I really want to do something
 
 Je vais donc écrire mes petits bouts de rien. J'ai pris un mot au hasard qui m'inspirait un peu et je suis partie en délire sur une ou deux phrases dessus. Il n'y a aucun sens à tout ça, juste de l'amusement sur l'instant.
 
-#### Délacer
+##### Délacer
 
-enlever ce qui est fait
-je me lasse de toi
-sans pour autant
-te délacer de mes bras
+enlever ce qui est faitje me lasse de toi\n
+sans pour autant\n
+te délacer de mes bras\n
 
-#### Désinence
+##### Désinence
 
 À chaque mot sa fin
 Elle change avec le temps et la personne
 Parce que nous savons que vous sachez
 On raisonne avec et. 
 
-#### Expéditionnaire
+##### Expéditionnaire
 
 l'expédition de ton courage
 N'aura que son égal
