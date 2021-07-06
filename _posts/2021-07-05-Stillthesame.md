@@ -40,7 +40,11 @@ Elle change avec le temps et la personne\
 Parce que nous savons que vous sachez\
 On raisonne avec et.
 
-##### Expéditionnaire
+##### Guillemeter
 
-l'expédition de ton courage
-N'aura que son égal
+Quel joli verbe qui met à l'honneur la ponctuation\
+Je guillemette ma vie autrefois entre parenthèses\
+Les virgules jouent avec les points\
+Chaque nouveau chapitre s'écrit avec ses belles lettrines et ses ratures\
+Je guillemette donc "ma vie" pour ne plus en perdre une miette.
+
