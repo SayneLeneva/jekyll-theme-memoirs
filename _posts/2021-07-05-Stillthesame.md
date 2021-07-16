@@ -4,7 +4,7 @@ title:  "404 not found."
 author: sayne
 categories: [ StoryOfMyLife ]
 tags: [ vagabondage ]
-image: assets/images/chien.png
+image: assets/images/david.jpg
 
 
 
@@ -46,5 +46,7 @@ Quel joli verbe qui met à l'honneur la ponctuation\
 Je guillemette ma vie autrefois entre parenthèses\
 Les virgules jouent avec les points\
 Chaque nouveau chapitre s'écrit avec ses belles lettrines et ses ratures\
-Je guillemette donc "ma vie" pour ne plus en perdre une miette.
+Je guillemette donc **_ma vie_** pour ne plus en perdre une miette.
+
+![alt text](../assets/images/chien.png "Logo Title Text 1")
 
