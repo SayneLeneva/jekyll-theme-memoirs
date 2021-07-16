@@ -3,7 +3,7 @@ layout: post
 title:  "Faim de phrases"
 author: sayne
 categories: [ StoryOfMyLife ]
-tags: [ France ]
+tags: [ Debut ]
 image: assets/images/faim.jpg
 
 ---
