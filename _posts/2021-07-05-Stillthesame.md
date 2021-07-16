@@ -12,7 +12,7 @@ image: assets/images/david.jpg
 
 ---
 
-# Oops, I dit it again.
+Oops, I dit it again.
 
 Retour à la case départ. Ce petit élan qui avait pourtant si bien commencé a volé en éclats avec la réouverture des bars, des terrasses, ou plus simplement, avec le retour à la vie. C'était une certitude absolue, me connaissant. Les maigres efforts faits pour tenir une belle routine créative sont revenus à néant. Pourtant, j'en ai des envies, des "babysteps" à faire. Mais il y a toujours quelque chose de mieux à faire. 
 
